@@ -1,0 +1,253 @@
+{
+  "username": "LiuCzj",
+  "avatar": "avatar.png",
+  "wechat_qrcode": "wechat-qrcode.jpg",
+  "hero_photo": "assets/hero-photo.png",
+  "name": {
+    "zh": "锦创AI",
+    "en": "锦创AI"
+  },
+  "tagline": {
+    "zh": "AI Agent · 大模型 · 微调与部署",
+    "en": "AI Agents · LLMs · Fine-tuning & Deployment"
+  },
+  "summary": {
+    "zh": "把模型训练、微调、推理部署与智能体工程，做成能真正跑起来的应用。",
+    "en": "Turning training, fine-tuning, inference deployment and agent engineering into applications that actually run."
+  },
+  "summary_lines": {
+    "zh": [
+      "把模型训练、微调、推理部署与智能体工程，",
+      "做成能真正跑起来的应用。"
+    ],
+    "en": [
+      "From training and fine-tuning to deployment,",
+      "building AI that actually runs."
+    ]
+  },
+  "tags": {
+    "zh": [
+      "智能体工程",
+      "模型微调",
+      "推理部署"
+    ],
+    "en": [
+      "Agent engineering",
+      "Fine-tuning",
+      "Inference deployment"
+    ]
+  },
+  "stack": [
+    {
+      "zh": "编程基础",
+      "en": "Foundations",
+      "items": [
+        "Python",
+        "Git",
+        "GitHub"
+      ]
+    },
+    {
+      "zh": "深度学习",
+      "en": "Deep learning",
+      "items": [
+        "PyTorch",
+        "Hugging Face",
+        "Transformers",
+        "Diffusers"
+      ]
+    },
+    {
+      "zh": "大模型工程",
+      "en": "LLM engineering",
+      "items": [
+        {
+          "zh": "LLM 微调",
+          "en": "LLM fine-tuning"
+        },
+        {
+          "zh": "模型推理",
+          "en": "Inference"
+        },
+        {
+          "zh": "模型部署",
+          "en": "Deployment"
+        },
+        {
+          "zh": "量化优化",
+          "en": "Quantization"
+        }
+      ]
+    },
+    {
+      "zh": "AI Agent",
+      "en": "AI Agent",
+      "items": [
+        "ReAct",
+        "Plan-and-Solve",
+        "Reflection",
+        "RAG",
+        "MCP"
+      ]
+    },
+    {
+      "zh": "开发工具",
+      "en": "Tooling",
+      "items": [
+        "VS Code",
+        "Codex",
+        "Google Colab"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "jinmo",
+      "url": "https://github.com/LiuCzj/jinmo",
+      "og": "https://opengraph.githubassets.com/1/LiuCzj/jinmo",
+      "desc_zh": "所见即所得 Markdown 编辑器：语法随光标浮现，纯前端零依赖，整包 gzip 约 70 KB。",
+      "desc_en": "A WYSIWYG Markdown editor where syntax appears only under the cursor. Pure frontend, ~70 KB gzipped.",
+      "accent": "#A9741F",
+      "tags": "TypeScript · Electron · AGPL-3.0",
+      "lines_zh": [
+        "所见即所得 Markdown 编辑器，",
+        "语法随光标浮现，纯前端零依赖。"
+      ],
+      "lines_en": [
+        "A WYSIWYG Markdown editor where",
+        "syntax appears under the cursor."
+      ]
+    },
+    {
+      "name": "my_page",
+      "url": "https://github.com/LiuCzj/my_page",
+      "og": "https://opengraph.githubassets.com/1/LiuCzj/my_page",
+      "desc_zh": "个人主页与数字分身：Next.js 全栈，含账号、评论、在线编辑与站内检索。",
+      "desc_en": "Personal site with an AI twin: full-stack Next.js with accounts, comments and in-place editing.",
+      "accent": "#0F6E56",
+      "tags": "Next.js · React · SQLite",
+      "lines_zh": [
+        "个人主页与数字分身，Next.js 全栈，",
+        "含账号、评论与在线编辑。"
+      ],
+      "lines_en": [
+        "Personal site with an AI twin:",
+        "full-stack Next.js with accounts."
+      ]
+    },
+    {
+      "name": "agentic-llms-zh",
+      "url": "https://github.com/LiuCzj/agentic-llms-zh",
+      "accent": "#7DD3FC",
+      "tags": "TeX · 41 MB · AGPL-3.0",
+      "desc_zh": "《Agentic Large Language Models》全书中文翻译，TeX 排版，41 MB。",
+      "desc_en": "A full Chinese translation of “Agentic Large Language Models”, typeset in TeX.",
+      "lines_zh": [
+        "《Agentic Large Language Models》",
+        "全书中文翻译，TeX 排版，41 MB。"
+      ],
+      "lines_en": [
+        "A full Chinese translation of",
+        "“Agentic Large Language Models”."
+      ]
+    }
+  ],
+  "contact": [
+    {
+      "key": "csdn",
+      "label": "CSDN",
+      "url": "https://blog.csdn.net/datafenxi",
+      "color": "B02B37",
+      "logo": "csdn",
+      "message": "datafenxi"
+    },
+    {
+      "key": "zhihu",
+      "label": "知乎",
+      "url": "https://www.zhihu.com/people/datafenxi",
+      "color": "0A66C2",
+      "logo": "zhihu",
+      "message": "datafenxi"
+    },
+    {
+      "key": "website",
+      "label": "个人网站",
+      "url": "https://www.jinc.de5.net",
+      "color": "8A6428",
+      "logo": "googlechrome",
+      "message": "jinc.de5.net"
+    },
+    {
+      "key": "github",
+      "label": "GitHub",
+      "url": "https://github.com/LiuCzj",
+      "color": "24292E",
+      "logo": "github",
+      "message": "LiuCzj"
+    }
+  ],
+  "theme": {
+    "light": {
+      "bg": "#F7F5F0",
+      "fg": "#1A1A18",
+      "sub": "#6B665E",
+      "muted": "#8A8175",
+      "line": "#E2DED5",
+      "tag_bg": "#EDEAE3",
+      "tag_fg": "#3A352E",
+      "photo_dim": 1.0
+    },
+    "dark": {
+      "bg": "#14120F",
+      "fg": "#F5F1EA",
+      "sub": "#A39A8C",
+      "muted": "#6B665E",
+      "line": "#2E2921",
+      "tag_bg": "#26221C",
+      "tag_fg": "#C9C0B0",
+      "photo_dim": 0.86,
+      "accent": "#E8B15C"
+    }
+  },
+  "about": {
+    "zh": "专注 AI Agent 与大模型技术。从模型训练、微调到推理部署，再到智能体工程，我关心的是这条链路能不能真正跑通——而不只是跑出一个能演示的 Demo。",
+    "en": "Focused on AI agents and large language models. From training and fine-tuning to inference deployment and agent engineering, what matters to me is whether the whole chain actually runs — not whether a demo looks impressive."
+  },
+  "doing": [
+    {
+      "zh": "让 Agent 真正完成任务",
+      "en": "Make agents finish the job",
+      "desc_zh": "多步规划、工具调用、自我反思——把一次问答变成一段能收敛的执行过程。",
+      "desc_en": "Multi-step planning, tool calls and self-reflection — turning a single answer into a process that converges."
+    },
+    {
+      "zh": "让模型适配具体场景",
+      "en": "Adapt models to real tasks",
+      "desc_zh": "用微调和量化，把通用模型调整到能解决具体问题的状态。",
+      "desc_en": "Fine-tuning and quantization to move a general model into a state that solves a specific problem."
+    },
+    {
+      "zh": "让能力真正上线",
+      "en": "Ship it for real",
+      "desc_zh": "推理加速与服务化部署，从「能跑」到「跑得起、跑得稳」。",
+      "desc_en": "Inference acceleration and service deployment — from 'it runs' to 'it runs reliably at a cost you can afford'."
+    }
+  ],
+  "stats": [
+    {
+      "num": "03",
+      "zh": "精选项目",
+      "en": "Selected projects"
+    },
+    {
+      "num": "01",
+      "zh": "技术译作",
+      "en": "Book translated"
+    },
+    {
+      "num": "06",
+      "zh": "个月开源历程",
+      "en": "Months open-sourced"
+    }
+  ]
+}

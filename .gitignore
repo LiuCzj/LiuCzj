@@ -1,0 +1,5 @@
+temp/
+*.bak.*
+__pycache__/
+.workbuddy-ai/
+avatar.png

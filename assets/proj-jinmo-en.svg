@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="360" viewBox="0 0 560 360" role="img">
+<title>jinmo</title>
+<desc>A WYSIWYG Markdown editor where syntax appears only under the cursor. Pure frontend, ~70 KB gzipped.</desc>
+<rect width="560" height="360" rx="16" fill="#1A1714" stroke="#2E2921" stroke-width="1"/>
+<circle cx="42" cy="42" r="6" fill="#A9741F"/>
+<text x="60" y="48" font-family="SFMono-Regular, Consolas, 'Courier New', monospace" font-size="18" fill="#6B665E">01</text>
+<text x="36" y="116" font-family="SFMono-Regular, Consolas, 'Courier New', monospace" font-size="34" font-weight="600" fill="#F5F1EA">jinmo</text>
+<text x="36" y="172" font-family="'PingFang SC', 'Microsoft YaHei', -apple-system, sans-serif" font-size="26" fill="#A39A8C">A WYSIWYG Markdown editor where</text><text x="36" y="210" font-family="'PingFang SC', 'Microsoft YaHei', -apple-system, sans-serif" font-size="26" fill="#A39A8C">syntax appears under the cursor.</text>
+<path d="M36 252H524" stroke="#2E2921" stroke-width="1"/>
+<text x="36" y="294" font-family="SFMono-Regular, Consolas, 'Courier New', monospace" font-size="17" fill="#6B665E">TypeScript · Electron · AGPL-3.0</text>
+<text x="524" y="294" text-anchor="end" font-family="'PingFang SC', 'Microsoft YaHei', -apple-system, sans-serif" font-size="22" fill="#A9741F">View →</text>
+</svg>
